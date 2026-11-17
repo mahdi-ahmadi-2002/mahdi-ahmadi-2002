@@ -6,14 +6,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_to-Werkstudent_roles_in_AI%2FML-2ea44f?style=flat-square" alt="Open to Werkstudent roles">
   <a href="https://www.linkedin.com/in/mahdi-ahmadi-3b75ab287"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:m.ahmadi@campus.tu-berlin.de"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 I build deep-learning systems end to end, from the data and the model to an honest evaluation and tested code.
 A 10-month backend internship (FastAPI, PostgreSQL) taught me how to put models into production.
-I'm based in Berlin, **available now for 15–20 h/week**, and speak English (C1), German (A2) and Persian.
+I speak English (C1), German (A2) and Persian, and I'm based in Berlin, open to working-student roles in AI/ML.
 
 ### 🚀 Featured projects
 
